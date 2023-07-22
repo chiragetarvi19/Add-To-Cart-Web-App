@@ -1,4 +1,4 @@
-**# Add to Cart Web App using Firebase**
+# Add to Cart Web App using Firebase
 
 The Add to Cart Web App is a simple application that helps users keep track of items they want to buy. It utilizes Firebase, a cloud-based database service, to store the items, ensuring users don't forget what they need to purchase when they visit the shop. Additionally, the app allows users to delete items from their cart when required, providing a seamless shopping experience.
 
